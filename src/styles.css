@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.accordion-title {
+  background: grey;
+  padding: 8px;
+  margin: 0 0 3px;
+  cursor: pointer;
+}
+
+.accordion-content {
+  display: none;
+}
