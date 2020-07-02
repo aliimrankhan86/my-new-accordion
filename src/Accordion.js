@@ -13,8 +13,7 @@ const Accordion = props => {
               {item.name}
             </div>
             <div
-              className="accordion-content"
-              style={{ display: item.visible ? "block" : "none" }}
+              className={item.visible ? "accordion-block" : "accordion-none"}
             >
               {item.desc}
             </div>
