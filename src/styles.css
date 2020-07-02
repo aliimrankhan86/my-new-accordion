@@ -7,7 +7,7 @@
 .accordion-title {
   background: grey;
   padding: 8px;
-  margin: 0 0 3px;
+  /* margin: 0 0 3px; */
   cursor: pointer;
 }
 
@@ -17,4 +17,5 @@
 
 .accordion-block {
   background: lightgray;
+  padding: 8px 0;
 }
