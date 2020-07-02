@@ -5,9 +5,8 @@
 }
 
 .accordion-title {
-  background: grey;
+  background: lightgrey;
   padding: 8px;
-  /* margin: 0 0 3px; */
   cursor: pointer;
 }
 
@@ -16,6 +15,6 @@
 }
 
 .accordion-block {
-  background: lightgray;
+  background: darkgrey;
   padding: 8px 0;
 }
